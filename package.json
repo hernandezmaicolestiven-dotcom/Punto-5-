@@ -1,0 +1,12 @@
+{
+  "name": "order-service-testing",
+  "version": "1.0.0",
+  "description": "Ejercicio 5 - OrderService con mocks",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
